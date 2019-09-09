@@ -1,4 +1,4 @@
-# flamingo-cs446
+# WikiQuiz Android App
 
 WikiQuiz, a trivia app with dynamically generated questions using data sourced from Wikipedia articles.
 
